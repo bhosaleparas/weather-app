@@ -1,4 +1,5 @@
 # 🌤️ Weather App
+This is a React-based Weather App using OpenWeatherMap API.
 
 A modern and responsive Weather App built with **React.js**, powered by the **OpenWeatherMap API**, and styled with beautiful CSS — including live search, weather icons.
 
