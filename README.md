@@ -19,3 +19,4 @@ A modern and responsive Weather App built with **React.js**, powered by the **Op
 
 ### 📌 Notes:
 - Replace api key with your API_KEY.
+- Check for project check on other branch also.
