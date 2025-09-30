@@ -27,11 +27,6 @@ A modern and responsive Weather App built with **React.js**, powered by the **Op
 
 ---
 
-## 🚀 Live Demo
-[View Live Application](#) <!-- Replace # with your deployment link -->
-
----
-
 ## 🛠️ Technology Stack
 
 ### Frontend
