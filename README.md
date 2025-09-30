@@ -57,4 +57,8 @@ A modern and responsive Weather App built with **React.js**, powered by the **Op
 git clone https://github.com/your-username/weather-app.git
 cd weather-app
 
+#### 2. Install Dependencies
+```bash
+  npm install
+
 
