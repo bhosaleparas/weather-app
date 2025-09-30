@@ -57,8 +57,29 @@ A modern and responsive Weather App built with **React.js**, powered by the **Op
 git clone https://github.com/your-username/weather-app.git
 cd weather-app
 
-#### 2. Install Dependencies
+```
+### 2.Install Dependencies
 ```bash
-  npm install
+npm install
+# or
+yarn install
+
+```
+### 3. Environment Configuration
+```bash
+REACT_APP_WEATHER_API_KEY=your_openweathermap_api_key_here
+
+```
+### 4. Start Development Server
+```bash
+npm start
+
+```
+### 5. Open Application
+```bash
+👉 http://localhost:3000
+ in your browser
+
+
 
 
